@@ -1,2 +1,2 @@
-# ParkinsonsDiseaseCNN
-Ur awd
+## Parkinsons Disease CNN
+
